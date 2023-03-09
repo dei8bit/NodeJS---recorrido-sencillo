@@ -1,0 +1,9 @@
+POST http://localhost:3000/comidas
+###
+PUT http://localhost:3000/comidas/saladas
+###
+PUT http://localhost:3000/comidas/dulces
+###
+DELETE http://localhost:3000/comidas/saladas
+###
+DELETE http://localhost:3000/comidas/dulces

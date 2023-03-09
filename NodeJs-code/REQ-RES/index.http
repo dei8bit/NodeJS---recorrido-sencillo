@@ -1,0 +1,5 @@
+## Para probar las solicitudes simplemente ingresamos el nombre del metodo seguido de la direccion. 
+
+# POST http://localhost:3100/
+# PUT http://localhost:3100/
+# DELETE http://localhost:3100/
